@@ -41,4 +41,4 @@ Em caso de dúvida, o estudante deve consultar o suporte antes de realizar uma n
 
 ## 8. Importante
 
-Esta política é fictícia e não representa uma política comercial real.
+
