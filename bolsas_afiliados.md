@@ -44,6 +44,3 @@ A participação em programas de bolsa ou afiliados pode ser encerrada quando ho
 
 Questões sobre campanhas, inscrições ou participação devem ser encaminhadas ao suporte responsável pelo programa.
 
-## 9. Importante
-
-Este documento é fictício e foi criado exclusivamente para demonstrar uma base de conhecimento para aplicações de IA e RAG.
