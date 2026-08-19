@@ -47,6 +47,3 @@ Utilize o canal de atendimento disponibilizado na plataforma.
 
 Não. A conta é individual e as credenciais não devem ser compartilhadas.
 
-## 12. Importante
-
-As informações deste FAQ são fictícias e fazem parte da base de conhecimento do projeto EducaIA.
