@@ -39,6 +39,5 @@ Cursos adquiridos em promoções ou condições especiais podem possuir regras e
 
 Em caso de dúvida, o estudante deve consultar o suporte antes de realizar uma nova compra ou solicitar o cancelamento.
 
-## 8. Importante
 
 
