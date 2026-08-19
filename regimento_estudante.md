@@ -47,6 +47,3 @@ Dúvidas relacionadas ao acesso, matrícula, certificados ou funcionamento da pl
 
 A EducaIA pode atualizar este regimento para melhorar seus serviços. Alterações relevantes deverão ser comunicadas aos usuários.
 
-## 9. Importante
-
-Este documento é fictício e foi criado exclusivamente para fins educacionais.
