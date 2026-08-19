@@ -55,6 +55,3 @@ Evite utilizar credenciais em computadores públicos e encerre a sessão quando 
 
 A plataforma deve buscar oferecer uma experiência acessível e compatível com diferentes dispositivos.
 
-## 10. Importante
-
-Este guia é fictício e foi criado para o projeto acadêmico EducaIA.
